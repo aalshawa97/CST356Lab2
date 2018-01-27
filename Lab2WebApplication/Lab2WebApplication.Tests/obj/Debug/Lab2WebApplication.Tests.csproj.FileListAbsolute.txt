@@ -1,0 +1,1 @@
+c:\users\abdullah.alshawa\source\repos\Lab2WebApplication\Lab2WebApplication.Tests\obj\Debug\Lab2WebApplication.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,20 @@
+Exercise 1
+5d.
+The DataTime.Now.Year object in container body content class generates the copyright year.
+
+5e. The year gets generated in the web server since C# razor syntax is used with the @ symbol.
+
+Exercise 2
+6.
+@Html are called inline expression (variables and functions) html calls. The view knows what model it is supposed to use by the model encapsulating the view, we can do this by adding a model to the view with a template.
+
+Exercise 3
+3.
+The user's data is stored in the view's model. The data for the user's comes from the InMemoryDatabase.
+
+4.
+1.
+The web application does not allow me to create a user until I enter in all the required fields.
+
+2.
+Now when I try to create a user with a required field missing I get messages telling me to enter the fields that I require to be entered (middle name is not included).
